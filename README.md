@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### SparkleBo
+### I'm SparkleBo
 
 
 - 🔭 I’m currently working at [Shanbay](https://www.shanbay.com)
