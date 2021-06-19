@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### SparkleBo
+
+
+- 🔭 I’m currently working at [Shanbay](https://www.shanbay.com)
+- 🌱 I’m currently learning `Python` `Golang` `Java` `C#`
