@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 ### I'm Sparkle
 
 
-- 🔭 I’m currently working at [Shanbay](https://www.shanbay.com)
+- 🔭 I’m currently working at [Shanbay](https://github.com/shanbay)
 - 🌱 I’m currently learning `Python` `Golang` `Java` `C#`
