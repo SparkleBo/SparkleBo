@@ -1,5 +1,4 @@
 ### Hi there 👋
-[About Me](https://bento.me/sparklebo)
 
 <!--
 **SparkleBo/SparkleBo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -21,3 +20,4 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working at [Shanbay](https://github.com/shanbay)
 - 🌱 I’m currently learning `TypeScript` `Tailwind CSS` `NextJS` `React`
+- 📫 How to reach me: sparklebobobo@gmail.com
