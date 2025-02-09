@@ -19,5 +19,5 @@ Here are some ideas to get you started:
 
 
 - 🔭 I’m currently working at [Shanbay](https://github.com/shanbay)
-- 🌱 I’m currently learning `TypeScript` `Tailwind CSS` `NextJS` `React`
+- 🌱 I’m currently learning [AI Engineer](https://roadmap.sh/ai-engineer)
 - 📫 How to reach me: sparklebobobo@gmail.com
